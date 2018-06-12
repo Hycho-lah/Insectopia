@@ -25,6 +25,13 @@ Although there were some technical difficulties during the actual implementation
 
 While the museum experience conceptually proved the project to be attractive, there is still much room for improvement. The coded behavior of the insects wasn’t really optimal. It would be better if they had a faster reaction time and more dramatic, signature movements to distinguish them. I had modified some of the code upon noticing this issue, and more time to experiment with different coded behavior would’ve been more ideal. The floor mat was also rougher than anticipated, and sometimes the friction would prevent the wheels from turning.  When the vehicle faces the cardboard wall, the flashlights cannot really reach the sensors in the front. Thus, it would’ve been better if photocells sensors were available in both front and back of each vehicle.
 
+
+## Images
+
+![What is this](image1.jpg)
+![What is this](image2.jpg)
+![What is this](image3.jpg)
+
 ## Contribution
 
 Conceptualization, design, and implementation were mostly done by the one author.
