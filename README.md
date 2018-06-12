@@ -28,10 +28,9 @@ While the museum experience conceptually proved the project to be attractive, th
 
 ## Images
 
-![What is this](image1.jpg | width=48)
-![What is this](image2.jpg | width=48)
-![What is this](image3.jpg)
-<img src="image3.jpg" alt="alt text" width="30" height="30">
+<img src="image1.jpg" alt="alt text" width="300" height="300">
+<img src="image2.jpg" alt="alt text" width="300" height="300">
+<img src="image3.jpg" alt="alt text" width="300" height="300">
 
 ## Contribution
 
