@@ -31,7 +31,7 @@ While the museum experience conceptually proved the project to be attractive, th
 <img src="image1.jpg" align="center" width="500" height="400">
 <img src="image2.jpg" align="center" width="500" height="400">
 <img src="image3.jpg" align="center" width="500" height="400">
-<\p/>
+<\p>
 ## Contribution
 
 Conceptualization, design, and implementation were mostly done by the one author.
