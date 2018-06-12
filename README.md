@@ -28,9 +28,9 @@ While the museum experience conceptually proved the project to be attractive, th
 
 ## Images
 
-![What is this](image1.jpg){:height="50%" width="50%"}
-![What is this](image2.jpg){:height="50%" width="50%"}
-![What is this](image3.jpg){:height="50%" width="50%"}
+![What is this](image1.jpg | width=48)
+![What is this](image2.jpg | width=48)
+![What is this](image3.jpg)
 
 ## Contribution
 
